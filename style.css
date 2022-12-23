@@ -79,5 +79,6 @@
     cursor: pointer;
   }
   #btn:hover {
+    background-color: #404060;
     cursor: pointer;
   }
